@@ -85,7 +85,8 @@ namespace Loader
                 ["genshin-impact-2.1"]         = "Genshin Impact 2.1",
                 ["genshin-impact-2.2"]         = "Genshin Impact 2.2",
                 ["genshin-impact-2.3"]         = "Genshin Impact 2.3",
-                ["genshin-impact-2.4"]         = "Genshin Impact 2.4"
+                ["genshin-impact-2.4"]         = "Genshin Impact 2.4",
+                ["genshin-impact-2.5"]         = "Genshin Impact 2.5"
 
             }
         };
@@ -112,7 +113,8 @@ namespace Loader
             ["genshin-impact-2.1"]         = new UnityOffsets { DecryptMetadata = 0x1A3EE0, GetStringFromIndex = 0x12BED0, GetStringLiteralFromIndex = 0x12C130 },
             ["genshin-impact-2.2"]         = new UnityOffsets { DecryptMetadata = 0x1658C0, GetStringFromIndex = 0x123F80, GetStringLiteralFromIndex = 0x124120 },
             ["genshin-impact-2.3"]         = new UnityOffsets { DecryptMetadata = 0x1673A0, GetStringFromIndex = 0x125220, GetStringLiteralFromIndex = 0x125530 },
-            ["genshin-impact-2.4"]         = new UnityOffsets { DecryptMetadata = 0x16F840, GetStringFromIndex = 0x12DC50, GetStringLiteralFromIndex = 0x12DF60 }
+            ["genshin-impact-2.4"]         = new UnityOffsets { DecryptMetadata = 0x16F840, GetStringFromIndex = 0x12DC50, GetStringLiteralFromIndex = 0x12DF60 },
+            ["genshin-impact-2.5"]         = new UnityOffsets { DecryptMetadata = 0x1C4DF0, GetStringFromIndex = 0x14C2D0, GetStringLiteralFromIndex = 0x14C6C0 }
 
         };
 
